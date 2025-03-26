@@ -1,5 +1,5 @@
 p {
-  font-size: largeer; /* Console warning: Invalid property value */
+  font-size: larger; 
 }
 
 h1 {
@@ -7,12 +7,11 @@ h1 {
   color: purple;
 }
 
-.contianer {
+.container {
   colro: red;
   width: 500px;
   height: 500px;
-  /* background should be the same as #output */
-  background-color: #f3SupeCoolColor;
+  background-color: #f0f0f0;
 }
 
 #output {
