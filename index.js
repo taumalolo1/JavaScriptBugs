@@ -1,5 +1,5 @@
 let message = "Hello, World!";
-console.log(message; // SyntaxError: Unexpected token ';'
+console.log(message); // SyntaxError: Unexpected token ';'
 
 
 console.log(myVariable); // ReferenceError: myVariable is not defined
